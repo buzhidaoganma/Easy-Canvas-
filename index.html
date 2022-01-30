@@ -9,8 +9,9 @@
 </head>
 <body>
     <div id="canvas">
-     <script>
-         canvas.onclick = (e) => {
+      <script>
+         canvas.onmousemove = (e) => {
+             //移动画线出现圈圈就不用onclick用onmousemove
              console.log(e.clientX)
              console.log(e.clientY)
                  //console.log 调试大法
