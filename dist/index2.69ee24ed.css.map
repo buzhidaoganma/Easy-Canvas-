@@ -1,1 +1,0 @@
-{"mappings":"AAAA;;;;;;AAMA;;;;AAIA","sources":["src/style2.css"],"sourcesContent":["* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n\n#canvas {\n  display: block;\n}\n\nbody {\n  overflow: hidden;\n}\n"],"names":[],"version":3,"file":"index2.69ee24ed.css.map","sourceRoot":"/__parcel_source_root/"}
