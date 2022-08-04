@@ -1,1 +1,0 @@
-{"mappings":"AAAA;;;;;;AAMA","sources":["src/style.css"],"sourcesContent":["* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n\n#canvas {\n  height: 100vh;\n  border: 1px solid red;\n}\n"],"names":[],"version":3,"file":"index.2cdaf7bc.css.map","sourceRoot":"/__parcel_source_root/"}
