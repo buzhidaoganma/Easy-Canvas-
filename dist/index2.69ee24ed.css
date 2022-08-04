@@ -1,7 +1,7 @@
 * {
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
 }
 
 #canvas {
@@ -11,3 +11,5 @@
 body {
   overflow: hidden;
 }
+
+/*# sourceMappingURL=index2.69ee24ed.css.map */
